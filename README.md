@@ -3,4 +3,4 @@
 - 👀 I’m interested in Data Science, Machine Learning, Python, C/C++, HTML, CSS, Bootstrap, Javascript.
 - 🌱 I’m currently exploring Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning
-- 📫 Reach me at rahul1353rkj@gmail.com or https://www.linkedin.com/in/rahul-jayswal-21044115a/
+- 📫 Reach me at rahul1353rkj@gmail.com or https://www.linkedin.com/in/rahul-jayswal-21044115a
