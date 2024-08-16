@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Professional Experience
 
-I have worked as a Junior Software Engineer at CodeTrade India Pvt. Ltd., where I specialized in web development, implementing Elasticsearch, customizing D3.js visualizations, and enhancing user engagement through various technologies.
+I have worked as a Junior Software Engineer, where I specialized in web development, implementing Elasticsearch, customizing D3.js visualizations, and enhancing user engagement through various technologies.
 
 ## 🎓 Education
 
