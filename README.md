@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rahul-jayswal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Rahul21j)
 
-👋 Hi, I’m Rahul Jayswal, a software engineer with experience in web development and data handling.
+👋 Hi, I’m Rahul Jayswal, a software engineer with experience in full stack web development.
 
 ## 🧑‍💻 Professional Experience
 
