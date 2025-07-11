@@ -19,7 +19,7 @@ I have worked as a Junior Software Engineer, where I specialized in web developm
 - **Front-End Frameworks:** Bootstrap, Tailwind CSS, React.js, Next.js, Angular.js
 - **Back-End Frameworks:** Django, OpenedX, Node.js, Express
 - **Database:** MySQL, PostgreSQL, SQLite3, MongoDB
-- **Technologies:** Elasticsearch, D3.js, Prisma, Auth0, SendGrid, Stripe
+- **Technologies:** Elasticsearch, D3.js, Prisma, Auth0, SendGrid, Stripe, GraphQL
 - **Tools:** Git, Postman, Tableau, Docker, Locust
 - **Operating Systems:** Windows, Linux (Ubuntu)
 
